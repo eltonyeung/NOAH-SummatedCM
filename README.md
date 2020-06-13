@@ -2,4 +2,4 @@
 
 Summated confusion matrix with each second of annotation treated as an indepdent incident, displaying inter-rater agreement among their postures rating across all participants.
 
-![SummatedCM for Apple Posture]!(/Corrected-Apple_summatedCM_pos_normalized(exclude occluded,oof,removal).jpeg)
+![SummatedCM for Apple Posture](/Corrected-Apple_summatedCM_pos_normalized(exclude occluded,oof,removal).jpeg)
