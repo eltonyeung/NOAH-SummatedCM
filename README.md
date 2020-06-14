@@ -8,4 +8,4 @@ Bar plot for displaying distribution of postures across
 
 ![SummatedPostureCMdistribution](/kappadistribution_posture.png)
 
-![SummatedPostureCMdistributionstacked](/kappadistribution_posture (stacked).png)
+![SummatedPostureCMdistributionstacked](/kappadistribution_posture (Stacked).png)
